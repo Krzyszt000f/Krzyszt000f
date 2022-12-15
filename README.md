@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Krzysztof!
+I'm novice developer of C# language.
+
+🌱 In free time I'm learning JavaScript but also I like to pursue my passions using ASP.NET or WinForms.
 
 <!--
 **Krzyszt000f/Krzyszt000f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
